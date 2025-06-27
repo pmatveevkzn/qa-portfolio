@@ -1,4 +1,4 @@
-# Баг-репорты — Lucky Test
+# Баг-репорты — [Lucky Test](https://lucky-test.ru/test-task/index.html)
 
 
 ## BUG-001 — Отсутствие валидации имени в форме 'Заказать звонок'
